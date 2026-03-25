@@ -25,10 +25,10 @@
 
 ```bash
 # 全局安装
-git clone https://github.com/carbonstop/skills.git ~/.gemini/skills
+git clone https://github.com/carbonstop/skills.git ~/.gemini/carbonstop-skills
 
 # 或在项目中使用（仅当前项目生效）
-git clone https://github.com/carbonstop/skills.git .gemini/skills
+git clone https://github.com/carbonstop/skills.git .gemini/carbonstop-skills
 ```
 
 重启 Gemini CLI 即可自动发现 Skills。
